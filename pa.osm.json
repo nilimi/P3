@@ -1,0 +1,533 @@
+{
+  "id": "26095830", 
+  "type": "node", 
+  "pos": [
+    "40.5729814", 
+    "-77.5836939"
+  ], 
+  "created": {
+    "changeset": "2405936", 
+    "user": "Sven L", 
+    "version": "2", 
+    "uid": "105255", 
+    "timestamp": "2009-09-07T19:29:11Z"
+  }
+}
+{
+  "id": "105977898", 
+  "type": "node", 
+  "pos": [
+    "40.892481", 
+    "-78.208992"
+  ], 
+  "created": {
+    "changeset": "3271960", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-02T13:29:41Z"
+  }
+}
+{
+  "id": "106012560", 
+  "type": "node", 
+  "pos": [
+    "40.85055", 
+    "-77.498074"
+  ], 
+  "created": {
+    "changeset": "3271960", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-02T13:36:42Z"
+  }
+}
+{
+  "id": "106043980", 
+  "type": "node", 
+  "pos": [
+    "40.902214", 
+    "-78.208035"
+  ], 
+  "created": {
+    "changeset": "3174145", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-11-21T09:12:56Z"
+  }
+}
+{
+  "id": "106078910", 
+  "type": "node", 
+  "pos": [
+    "40.980901", 
+    "-77.866529"
+  ], 
+  "created": {
+    "changeset": "3271960", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-02T13:48:48Z"
+  }
+}
+{
+  "id": "106122298", 
+  "type": "node", 
+  "pos": [
+    "41.004423", 
+    "-77.464105"
+  ], 
+  "created": {
+    "changeset": "3594668", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2010-01-11T10:33:44Z"
+  }
+}
+{
+  "id": "106159908", 
+  "type": "node", 
+  "pos": [
+    "40.791617", 
+    "-78.123324"
+  ], 
+  "created": {
+    "changeset": "3271960", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-02T14:07:09Z"
+  }
+}
+{
+  "id": "106199554", 
+  "type": "node", 
+  "pos": [
+    "40.975867", 
+    "-78.050951"
+  ], 
+  "created": {
+    "changeset": "3174145", 
+    "user": "woodpeck_fixbot", 
+    "version": "3", 
+    "uid": "147510", 
+    "timestamp": "2009-11-21T09:35:22Z"
+  }
+}
+{
+  "id": "106237772", 
+  "type": "node", 
+  "pos": [
+    "41.053507", 
+    "-77.837755"
+  ], 
+  "created": {
+    "changeset": "3271960", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-02T14:29:18Z"
+  }
+}
+{
+  "id": "106271020", 
+  "type": "node", 
+  "pos": [
+    "40.865131", 
+    "-78.063529"
+  ], 
+  "created": {
+    "changeset": "3271960", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-02T14:41:01Z"
+  }
+}
+{
+  "id": "106372750", 
+  "type": "node", 
+  "pos": [
+    "41.004265", 
+    "-78.201814"
+  ], 
+  "created": {
+    "changeset": "3395937", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-17T18:59:03Z"
+  }
+}
+{
+  "id": "106508602", 
+  "type": "node", 
+  "pos": [
+    "41.103504", 
+    "-77.482461"
+  ], 
+  "created": {
+    "changeset": "3346122", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-11T01:14:58Z"
+  }
+}
+{
+  "id": "106608533", 
+  "type": "node", 
+  "pos": [
+    "41.024574", 
+    "-78.260262"
+  ], 
+  "created": {
+    "changeset": "3173422", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-11-21T05:34:03Z"
+  }
+}
+{
+  "id": "106727067", 
+  "type": "node", 
+  "pos": [
+    "40.980766", 
+    "-78.207596"
+  ], 
+  "created": {
+    "changeset": "3396793", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-12-17T21:05:12Z"
+  }
+}
+{
+  "id": "107056426", 
+  "type": "node", 
+  "pos": [
+    "40.65741", 
+    "-78.080068"
+  ], 
+  "created": {
+    "changeset": "2476448", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-09-13T23:29:42Z"
+  }
+}
+{
+  "id": "107181340", 
+  "type": "node", 
+  "pos": [
+    "40.600557", 
+    "-77.447206"
+  ], 
+  "created": {
+    "changeset": "2928857", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-10-23T12:24:34Z"
+  }
+}
+{
+  "id": "108846662", 
+  "type": "node", 
+  "pos": [
+    "40.744349", 
+    "-77.316603"
+  ], 
+  "created": {
+    "changeset": "2802172", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-10-10T12:01:09Z"
+  }
+}
+{
+  "id": "110306911", 
+  "type": "node", 
+  "pos": [
+    "40.960051", 
+    "-77.452107"
+  ], 
+  "created": {
+    "changeset": "3594636", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2010-01-11T10:53:34Z"
+  }
+}
+{
+  "id": "136219123", 
+  "type": "node", 
+  "pos": [
+    "40.708771", 
+    "-77.405693"
+  ], 
+  "created": {
+    "changeset": "3543277", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2010-01-05T07:55:18Z"
+  }
+}
+{
+  "id": "136266625", 
+  "type": "node", 
+  "pos": [
+    "40.682189", 
+    "-77.606924"
+  ], 
+  "created": {
+    "changeset": "2829928", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-10-12T20:42:24Z"
+  }
+}
+{
+  "id": "136320987", 
+  "type": "node", 
+  "pos": [
+    "40.645227", 
+    "-77.572865"
+  ], 
+  "created": {
+    "changeset": "3543277", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2010-01-05T07:55:56Z"
+  }
+}
+{
+  "id": "136373905", 
+  "type": "node", 
+  "pos": [
+    "40.783104", 
+    "-77.484122"
+  ], 
+  "created": {
+    "changeset": "2829928", 
+    "user": "woodpeck_fixbot", 
+    "version": "2", 
+    "uid": "147510", 
+    "timestamp": "2009-10-12T21:11:41Z"
+  }
+}
+{
+  "id": "420794507", 
+  "type": "node", 
+  "pos": [
+    "40.8396257", 
+    "-77.8641629"
+  ], 
+  "created": {
+    "changeset": "1527836", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2009-06-15T19:30:21Z"
+  }
+}
+{
+  "id": "455650801", 
+  "type": "node", 
+  "pos": [
+    "40.586737", 
+    "-77.574495"
+  ], 
+  "created": {
+    "changeset": "2030481", 
+    "user": "TIGERcnl", 
+    "version": "1", 
+    "uid": "120146", 
+    "timestamp": "2009-08-03T22:19:22Z"
+  }
+}
+{
+  "id": "534040003", 
+  "type": "node", 
+  "pos": [
+    "40.6979732", 
+    "-78.0133035"
+  ], 
+  "created": {
+    "changeset": "2870207", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2009-10-17T04:11:05Z"
+  }
+}
+{
+  "id": "627211943", 
+  "railway": "level_crossing", 
+  "type": "node", 
+  "pos": [
+    "40.8516354", 
+    "-77.7721774"
+  ], 
+  "created": {
+    "changeset": "3780317", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2010-02-03T01:54:34Z"
+  }
+}
+{
+  "id": "677276109", 
+  "type": "node", 
+  "pos": [
+    "40.6943147", 
+    "-77.7726065"
+  ], 
+  "created": {
+    "changeset": "4263609", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2010-03-29T03:48:06Z"
+  }
+}
+{
+  "id": "697814829", 
+  "type": "node", 
+  "pos": [
+    "40.9247603", 
+    "-77.7316175"
+  ], 
+  "created": {
+    "changeset": "4433963", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2010-04-15T19:58:19Z"
+  }
+}
+{
+  "id": "747485173", 
+  "type": "node", 
+  "pos": [
+    "40.8346626", 
+    "-78.0137348"
+  ], 
+  "created": {
+    "changeset": "4798922", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2010-05-24T21:35:59Z"
+  }
+}
+{
+  "id": "761867471", 
+  "type": "node", 
+  "pos": [
+    "40.6879078", 
+    "-77.4213682"
+  ], 
+  "created": {
+    "changeset": "4879970", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2010-06-02T01:31:06Z"
+  }
+}
+{
+  "id": "774078238", 
+  "type": "node", 
+  "pos": [
+    "41.0508014", 
+    "-78.2119491"
+  ], 
+  "created": {
+    "changeset": "5004818", 
+    "user": "Sven L", 
+    "version": "1", 
+    "uid": "105255", 
+    "timestamp": "2010-06-16T21:51:09Z"
+  }
+}
+{
+  "id": "1346386334", 
+  "type": "node", 
+  "pos": [
+    "40.5969884", 
+    "-77.5677675"
+  ], 
+  "created": {
+    "changeset": "8604364", 
+    "user": "aaronfleishman", 
+    "version": "1", 
+    "uid": "479852", 
+    "timestamp": "2011-07-02T02:24:25Z"
+  }
+}
+{
+  "id": "2286181599", 
+  "type": "node", 
+  "pos": [
+    "40.8088524", 
+    "-77.3778015"
+  ], 
+  "created": {
+    "changeset": "15914674", 
+    "user": "lovedabikes", 
+    "version": "1", 
+    "uid": "405293", 
+    "timestamp": "2013-04-29T22:02:36Z"
+  }
+}
+{
+  "tiger:name_base": "Reservoir", 
+  "name": "Reservoir Road", 
+  "tiger:cfcc": "A41", 
+  "created": {
+    "changeset": "14362424", 
+    "user": "bot-mode", 
+    "version": "4", 
+    "uid": "451693", 
+    "timestamp": "2012-12-22T05:23:46Z"
+  }, 
+  "tiger:reviewed": "aerial", 
+  "tiger:county": "Centre, PA", 
+  "tiger:name_type": "Rd", 
+  "type": "way", 
+  "id": "11834418", 
+  "highway": "unclassified"
+}
+{
+  "tiger:source": "tiger_import_dch_v0.6_20070829", 
+  "tiger:upload_uuid": "bulk_upload.pl-4db5ef2d-f327-4d8f-b479-bac6fd8fa3cf", 
+  "tiger:cfcc": "A74", 
+  "created": {
+    "changeset": "629101", 
+    "user": "DaveHansenTiger", 
+    "version": "1", 
+    "uid": "7168", 
+    "timestamp": "2007-11-27T03:18:57Z"
+  }, 
+  "tiger:reviewed": "no", 
+  "access": "private", 
+  "tiger:county": "Mifflin, PA", 
+  "tiger:tlid": "48023279", 
+  "type": "way", 
+  "id": "14233870", 
+  "highway": "service"
+}
