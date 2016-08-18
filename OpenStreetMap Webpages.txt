@@ -1,0 +1,8 @@
+Webpages used in project:
+
+https://discussions.udacity.com/t/size-of-file-database-query/180429
+https://discussions.udacity.com/t/openstreetmap-final-project/23782
+https://discussions.udacity.com/t/i-have-an-adequate-update-name-to-improve-street-names-not-sure-how-to-use-it/166569/5
+https://s3.amazonaws.com/metro-extracts.mapzen.com/state-college_pennsylvania.osm.bz2
+https://mapzen.com/data/metro-extracts-old/
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiz4te3tcfOAhWBRyYKHZ5LB4kQFggjMAE&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FState_College%2C_Pennsylvania&usg=AFQjCNHZQ20t_EalReI1ga80IkwcJtm8WQ&sig2=lNR2feF3lezDaz1oVnQikQ

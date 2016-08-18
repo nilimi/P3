@@ -1,0 +1,7 @@
+OpenStreetMap Project
+Data Wrangling with MongoDB
+Nicole Mister
+Map Area: State College, PA, United States
+https://s3.amazonaws.com/metro-extracts.mapzen.com/state-college_pennsylvania.osm.bz2
+
+State College is the larget borough in Pennsylvania with a population of 42,034.  Pennsylvania State University is located in this college town.  It has been ranked the third-safest metropolitan area in the US and the 8th best college town in the nation.  Zip codes include 16801, 16803, 16804, 16805.
